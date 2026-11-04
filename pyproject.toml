@@ -1,6 +1,6 @@
 [project]
 name = "weather_hz3161"
-version = "0.1.0"
+version = "0.1.1"
 description = "Weather utilities for converting, summarizing, and cleaning temperature readings."
 readme = "README.md"
 authors = [{ name = "Hantong Zhao", email = "hz3161@columbia.edu" }]
