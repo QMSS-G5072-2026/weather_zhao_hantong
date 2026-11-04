@@ -1,5 +1,7 @@
 # weather_hz3161
 
+![ci](https://github.com/QMSS-G5072-2026/weather_zhao_hantong/actions/workflows/ci.yml/badge.svg)
+
 Weather utilities for converting, summarizing, and cleaning temperature readings.
 
 ## Installation
